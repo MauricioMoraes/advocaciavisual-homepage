@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "advocaciavisual",
+    "public": "_site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
